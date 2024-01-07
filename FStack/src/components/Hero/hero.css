@@ -1,0 +1,21 @@
+.hero {
+    margin-top: 550px !important;
+}
+.hero-container h1 {
+    font-weight: bolder;
+    font-size: 4rem;
+    color: black;
+}
+
+.hero-container {
+    padding: 80px;
+}
+
+.hero-container p {
+    color: #000;
+}
+
+.e-purple {
+    color: #9545a3;
+}
+
